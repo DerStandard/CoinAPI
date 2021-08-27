@@ -1,0 +1,5 @@
+name: CoinPlugin
+version: 1.0
+author: DerStandard
+
+main: de.derstadnard.coinplugin.CoinPlugin

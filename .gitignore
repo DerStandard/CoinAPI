@@ -1,0 +1,7 @@
+*.class
+target
+*.jar
+*.iml
+.idea
+test
+dependency-reduced-pom.xml
