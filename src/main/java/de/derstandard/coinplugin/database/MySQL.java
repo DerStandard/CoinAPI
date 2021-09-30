@@ -27,7 +27,6 @@ public class MySQL {
           }).build(new CacheLoader<Integer, Connection>() {
             @Override
             public Connection load(Integer integer) throws Exception {
-              System.out.println("CREATED");
               return createConnection();
             }
           });
